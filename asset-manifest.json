@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Prime-Flix/static/css/main.8cdbef3b.css",
-    "main.js": "/Prime-Flix/static/js/main.8070e7af.js",
-    "index.html": "/Prime-Flix/index.html",
-    "main.8cdbef3b.css.map": "/Prime-Flix/static/css/main.8cdbef3b.css.map",
-    "main.8070e7af.js.map": "/Prime-Flix/static/js/main.8070e7af.js.map"
+    "main.css": "/static/css/main.a950b138.css",
+    "main.js": "/static/js/main.bd5c51aa.js",
+    "index.html": "/index.html",
+    "main.a950b138.css.map": "/static/css/main.a950b138.css.map",
+    "main.bd5c51aa.js.map": "/static/js/main.bd5c51aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cdbef3b.css",
-    "static/js/main.8070e7af.js"
+    "static/css/main.a950b138.css",
+    "static/js/main.bd5c51aa.js"
   ]
 }
